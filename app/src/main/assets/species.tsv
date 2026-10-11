@@ -1,0 +1,1206 @@
+Bulbasaur	1	BULBASAUR	118	111	128	grass,poison
+Ivysaur	2	BULBASAUR	151	143	155	grass,poison
+Venusaur	3	BULBASAUR	198	189	190	grass,poison
+Charmander	4	CHARMANDER	116	93	118	fire
+Charmeleon	5	CHARMANDER	158	126	151	fire
+Charizard	6	CHARMANDER	223	173	186	fire,flying
+Squirtle	7	SQUIRTLE	94	121	127	water
+Wartortle	8	SQUIRTLE	126	155	153	water
+Blastoise	9	SQUIRTLE	171	207	188	water
+Caterpie	10	CATERPIE	55	55	128	bug
+Metapod	11	CATERPIE	45	80	137	bug
+Butterfree	12	CATERPIE	167	137	155	bug,flying
+Weedle	13	WEEDLE	63	50	120	bug,poison
+Kakuna	14	WEEDLE	46	75	128	bug,poison
+Beedrill	15	WEEDLE	169	130	163	bug,poison
+Pidgey	16	PIDGEY	85	73	120	normal,flying
+Pidgeotto	17	PIDGEY	117	105	160	normal,flying
+Pidgeot	18	PIDGEY	166	154	195	normal,flying
+Rattata	19	RATTATA	103	70	102	normal
+Rattata (Alolan)	19	RATTATA	103	70	102	dark,normal
+Raticate	20	RATTATA	161	139	146	normal
+Raticate (Alolan)	20	RATTATA	135	154	181	dark,normal
+Spearow	21	SPEAROW	112	60	120	normal,flying
+Fearow	22	SPEAROW	182	133	163	normal,flying
+Ekans	23	EKANS	110	97	111	poison
+Arbok	24	EKANS	167	153	155	poison
+Pikachu	25	PIKACHU	112	96	111	electric
+Pikachu (5th Anniversary)	25	PIKACHU	112	96	111	electric
+Pikachu (Flying)	25	PIKACHU	112	96	111	electric
+Pikachu (Horizons)	25	PIKACHU	112	96	111	electric
+Pikachu (Kariyushi)	25	PIKACHU	112	96	111	electric
+Pikachu (Libre)	25	PIKACHU	112	96	111	electric
+Pikachu (Pop Star)	25	PIKACHU	112	96	111	electric
+Pikachu (Rock Star)	25	PIKACHU	112	96	111	electric
+Pikachu (Shaymin Scarf)	25	PIKACHU	112	96	111	electric
+Raichu	26	PIKACHU	193	151	155	electric
+Raichu (Alolan)	26	PIKACHU	201	154	155	electric,psychic
+Sandshrew	27	SANDSHREW	126	120	137	ground
+Sandshrew (Alolan)	27	SANDSHREW	125	129	137	ice,steel
+Sandslash	28	SANDSHREW	182	175	181	ground
+Sandslash (Alolan)	28	SANDSHREW	177	195	181	ice,steel
+Nidoran Female	29	NIDORANFEMALE	86	89	146	poison
+Nidorina	30	NIDORANFEMALE	117	120	172	poison
+Nidoqueen	31	NIDORANFEMALE	180	173	207	poison,ground
+Nidoran Male	32	NIDORANMALE	105	76	130	poison
+Nidorino	33	NIDORANMALE	137	111	156	poison
+Nidoking	34	NIDORANMALE	204	156	191	poison,ground
+Clefairy	35	CLEFAIRY	107	108	172	fairy
+Clefable	36	CLEFAIRY	178	162	216	fairy
+Vulpix	37	VULPIX	96	109	116	fire
+Vulpix (Alolan)	37	VULPIX	96	109	116	ice
+Ninetales	38	VULPIX	169	190	177	fire
+Ninetales (Alolan)	38	VULPIX	170	193	177	ice,fairy
+Jigglypuff	39	JIGGLYPUFF	80	41	251	normal,fairy
+Wigglytuff	40	JIGGLYPUFF	156	90	295	normal,fairy
+Zubat	41	ZUBAT	83	73	120	poison,flying
+Golbat	42	ZUBAT	161	150	181	poison,flying
+Oddish	43	ODDISH	131	112	128	grass,poison
+Gloom	44	ODDISH	153	136	155	grass,poison
+Vileplume	45	ODDISH	202	167	181	grass,poison
+Paras	46	PARAS	121	99	111	bug,grass
+Parasect	47	PARAS	165	146	155	bug,grass
+Venonat	48	VENONAT	100	100	155	bug,poison
+Venomoth	49	VENONAT	179	143	172	bug,poison
+Diglett	50	DIGLETT	109	78	67	ground
+Diglett (Alolan)	50	DIGLETT	108	81	67	ground,steel
+Dugtrio	51	DIGLETT	167	136	111	ground
+Dugtrio (Alolan)	51	DIGLETT	201	142	111	ground,steel
+Meowth	52	MEOWTH	92	78	120	normal
+Meowth (Alolan)	52	MEOWTH	99	78	120	dark
+Meowth (Galarian)	52	MEOWTH	115	92	137	steel
+Persian	53	MEOWTH	150	136	163	normal
+Persian (Alolan)	53	MEOWTH	158	136	163	dark
+Psyduck	54	PSYDUCK	122	95	137	water
+Golduck	55	PSYDUCK	191	162	190	water
+Mankey	56	MANKEY	148	82	120	fighting
+Primeape	57	MANKEY	207	138	163	fighting
+Growlithe	58	GROWLITHE	136	93	146	fire
+Growlithe (Hisuian)	58	GROWLITHE	142	92	155	fire,rock
+Arcanine	59	GROWLITHE	227	166	207	fire
+Arcanine (Hisuian)	59	GROWLITHE	232	165	216	fire,rock
+Poliwag	60	POLIWAG	101	82	120	water
+Poliwhirl	61	POLIWAG	130	123	163	water
+Poliwrath	62	POLIWAG	182	184	207	water,fighting
+Abra	63	ABRA	195	82	93	psychic
+Kadabra	64	ABRA	232	117	120	psychic
+Alakazam	65	ABRA	271	167	146	psychic
+Machop	66	MACHOP	137	82	172	fighting
+Machoke	67	MACHOP	177	125	190	fighting
+Machamp	68	MACHOP	234	159	207	fighting
+Bellsprout	69	BELLSPROUT	139	61	137	grass,poison
+Weepinbell	70	BELLSPROUT	172	92	163	grass,poison
+Victreebel	71	BELLSPROUT	207	135	190	grass,poison
+Tentacool	72	TENTACOOL	97	149	120	water,poison
+Tentacruel	73	TENTACOOL	166	209	190	water,poison
+Geodude	74	GEODUDE	132	132	120	rock,ground
+Geodude (Alolan)	74	GEODUDE	132	132	120	rock,electric
+Graveler	75	GEODUDE	164	164	146	rock,ground
+Graveler (Alolan)	75	GEODUDE	164	164	146	rock,electric
+Golem	76	GEODUDE	211	198	190	rock,ground
+Golem (Alolan)	76	GEODUDE	211	198	190	rock,electric
+Ponyta	77	PONYTA	170	127	137	fire
+Ponyta (Galarian)	77	PONYTA	170	127	137	psychic
+Rapidash	78	PONYTA	207	162	163	fire
+Rapidash (Galarian)	78	PONYTA	207	162	163	psychic,fairy
+Slowpoke	79	SLOWPOKE	109	98	207	water,psychic
+Slowpoke (Galarian)	79	SLOWPOKE	109	98	207	psychic
+Slowbro	80	SLOWPOKE	177	180	216	water,psychic
+Slowbro (Galarian)	80	SLOWPOKE	182	156	216	poison,psychic
+Magnemite	81	MAGNEMITE	165	121	93	electric,steel
+Magneton	82	MAGNEMITE	223	169	137	electric,steel
+Farfetch'd	83	FARFETCHD	124	115	141	normal,flying
+Farfetch'd (Galarian)	83	FARFETCHD	174	114	141	fighting
+Doduo	84	DODUO	158	83	111	normal,flying
+Dodrio	85	DODUO	218	140	155	normal,flying
+Seel	86	SEEL	85	121	163	water
+Dewgong	87	SEEL	139	177	207	water,ice
+Grimer	88	GRIMER	135	90	190	poison
+Grimer (Alolan)	88	GRIMER	135	90	190	poison,dark
+Muk	89	GRIMER	190	172	233	poison
+Muk (Alolan)	89	GRIMER	190	172	233	poison,dark
+Shellder	90	SHELLDER	116	134	102	water
+Cloyster	91	SHELLDER	186	256	137	water,ice
+Gastly	92	GASTLY	186	67	102	ghost,poison
+Haunter	93	GASTLY	223	107	128	ghost,poison
+Gengar	94	GASTLY	261	149	155	ghost,poison
+Onix	95	ONIX	85	232	111	rock,ground
+Drowzee	96	DROWZEE	89	136	155	psychic
+Hypno	97	DROWZEE	144	193	198	psychic
+Krabby	98	KRABBY	181	124	102	water
+Kingler	99	KRABBY	240	181	146	water
+Voltorb	100	VOLTORB	109	111	120	electric
+Voltorb (Hisuian)	100	VOLTORB	109	111	120	grass,electric
+Electrode	101	VOLTORB	173	173	155	electric
+Electrode (Hisuian)	101	VOLTORB	176	176	155	electric,grass
+Exeggcute	102	EXEGGCUTE	107	125	155	grass,psychic
+Exeggutor	103	EXEGGCUTE	233	149	216	grass,psychic
+Exeggutor (Alolan)	103	EXEGGCUTE	230	153	216	grass,dragon
+Cubone	104	CUBONE	90	144	137	ground
+Marowak	105	CUBONE	144	186	155	ground
+Marowak (Alolan)	105	CUBONE	144	186	155	fire,ghost
+Hitmonlee	106	TYROGUE	224	181	137	fighting
+Hitmonchan	107	TYROGUE	193	197	137	fighting
+Lickitung	108	LICKITUNG	108	137	207	normal
+Koffing	109	KOFFING	119	141	120	poison
+Weezing	110	KOFFING	174	197	163	poison
+Weezing (Galarian)	110	KOFFING	174	197	163	poison,fairy
+Rhyhorn	111	RHYHORN	140	127	190	ground,rock
+Rhydon	112	RHYHORN	222	171	233	ground,rock
+Chansey	113	CHANSEY	60	128	487	normal
+Tangela	114	TANGELA	183	169	163	grass
+Kangaskhan	115	KANGASKHAN	181	165	233	normal
+Horsea	116	HORSEA	129	103	102	water
+Seadra	117	HORSEA	187	156	146	water
+Goldeen	118	GOLDEEN	123	110	128	water
+Seaking	119	GOLDEEN	175	147	190	water
+Staryu	120	STARYU	137	112	102	water
+Starmie	121	STARYU	210	184	155	water,psychic
+Mr. Mime	122	MRMIME	192	205	120	psychic,fairy
+Mr. Mime (Galarian)	122	MRMIME	183	169	137	ice,psychic
+Scyther	123	SCYTHER	218	170	172	bug,flying
+Jynx	124	JYNX	223	151	163	ice,psychic
+Electabuzz	125	ELECTABUZZ	198	158	163	electric
+Magmar	126	MAGMAR	206	154	163	fire
+Pinsir	127	PINSIR	238	182	163	bug
+Tauros	128	TAUROS	198	183	181	normal
+Tauros (Aqua)	128	TAUROS	210	193	181	fighting,water
+Tauros (Blaze)	128	TAUROS	210	193	181	fighting,fire
+Tauros (Combat)	128	TAUROS	210	193	181	fighting
+Magikarp	129	MAGIKARP	29	85	85	water
+Gyarados	130	MAGIKARP	237	186	216	water,flying
+Lapras	131	LAPRAS	165	174	277	water,ice
+Ditto	132	DITTO	91	91	134	normal
+Eevee	133	EEVEE	104	114	146	normal
+Vaporeon	134	EEVEE	205	161	277	water
+Jolteon	135	EEVEE	232	182	163	electric
+Flareon	136	EEVEE	246	179	163	fire
+Porygon	137	PORYGON	153	136	163	normal
+Omanyte	138	OMANYTE	155	153	111	rock,water
+Omastar	139	OMANYTE	207	201	172	rock,water
+Kabuto	140	KABUTO	148	140	102	rock,water
+Kabutops	141	KABUTO	220	186	155	rock,water
+Aerodactyl	142	AERODACTYL	221	159	190	rock,flying
+Snorlax	143	SNORLAX	190	169	330	normal
+Articuno	144	ARTICUNO	192	236	207	ice,flying
+Articuno (Galarian)	144	ARTICUNO	250	197	207	psychic,flying
+Zapdos	145	ZAPDOS	253	185	207	electric,flying
+Zapdos (Galarian)	145	ZAPDOS	252	189	207	fighting,flying
+Moltres	146	MOLTRES	251	181	207	fire,flying
+Moltres (Galarian)	146	MOLTRES	202	231	207	dark,flying
+Dratini	147	DRATINI	119	91	121	dragon
+Dragonair	148	DRATINI	163	135	156	dragon
+Dragonite	149	DRATINI	263	198	209	dragon,flying
+Mewtwo	150	MEWTWO	300	182	214	psychic
+Mewtwo (Armored)	150	MEWTWO	182	278	214	psychic
+Mew	151	MEW	210	210	225	psychic
+Chikorita	152	CHIKORITA	92	122	128	grass
+Bayleef	153	CHIKORITA	122	155	155	grass
+Meganium	154	CHIKORITA	168	202	190	grass
+Cyndaquil	155	CYNDAQUIL	116	93	118	fire
+Quilava	156	CYNDAQUIL	158	126	151	fire
+Typhlosion	157	CYNDAQUIL	223	173	186	fire
+Typhlosion (Hisuian)	157	CYNDAQUIL	238	172	177	fire,ghost
+Totodile	158	TOTODILE	117	109	137	water
+Croconaw	159	TOTODILE	150	142	163	water
+Feraligatr	160	TOTODILE	205	188	198	water
+Sentret	161	SENTRET	79	73	111	normal
+Furret	162	SENTRET	148	125	198	normal
+Hoothoot	163	HOOTHOOT	67	88	155	normal,flying
+Noctowl	164	HOOTHOOT	145	156	225	normal,flying
+Ledyba	165	LEDYBA	72	118	120	bug,flying
+Ledian	166	LEDYBA	107	179	146	bug,flying
+Spinarak	167	SPINARAK	105	73	120	bug,poison
+Ariados	168	SPINARAK	161	124	172	bug,poison
+Crobat	169	ZUBAT	194	178	198	poison,flying
+Chinchou	170	CHINCHOU	106	97	181	water,electric
+Lanturn	171	CHINCHOU	146	137	268	water,electric
+Pichu	172	PIKACHU	77	53	85	electric
+Cleffa	173	CLEFAIRY	75	79	137	fairy
+Igglybuff	174	JIGGLYPUFF	69	32	207	normal,fairy
+Togepi	175	TOGEPI	67	116	111	fairy
+Togetic	176	TOGEPI	139	181	146	fairy,flying
+Natu	177	NATU	134	89	120	psychic,flying
+Xatu	178	NATU	192	146	163	psychic,flying
+Mareep	179	MAREEP	114	79	146	electric
+Flaaffy	180	MAREEP	145	109	172	electric
+Ampharos	181	MAREEP	211	169	207	electric
+Bellossom	182	ODDISH	169	186	181	grass
+Marill	183	MARILL	37	93	172	water,fairy
+Azumarill	184	MARILL	112	152	225	water,fairy
+Sudowoodo	185	SUDOWOODO	167	176	172	rock
+Politoed	186	POLIWAG	174	179	207	water
+Hoppip	187	HOPPIP	67	94	111	grass,flying
+Skiploom	188	HOPPIP	91	120	146	grass,flying
+Jumpluff	189	HOPPIP	118	183	181	grass,flying
+Aipom	190	AIPOM	136	112	146	normal
+Sunkern	191	SUNKERN	55	55	102	grass
+Sunflora	192	SUNKERN	185	135	181	grass
+Yanma	193	YANMA	154	94	163	bug,flying
+Wooper	194	WOOPER	75	66	146	water,ground
+Wooper (Paldean)	194	WOOPERPALDEAN	75	66	146	poison,ground
+Quagsire	195	WOOPER	152	143	216	water,ground
+Espeon	196	EEVEE	261	175	163	psychic
+Umbreon	197	EEVEE	126	240	216	dark
+Murkrow	198	MURKROW	175	87	155	dark,flying
+Slowking	199	SLOWPOKE	177	180	216	water,psychic
+Slowking (Galarian)	199	SLOWPOKE	190	180	216	poison,psychic
+Misdreavus	200	MISDREAVUS	167	154	155	ghost
+Unown	201	UNOWN	136	91	134	psychic
+Wobbuffet	202	WOBBUFFET	60	106	382	psychic
+Girafarig	203	GIRAFARIG	182	133	172	normal,psychic
+Pineco	204	PINECO	108	122	137	bug
+Forretress	205	PINECO	161	205	181	bug,steel
+Dunsparce	206	DUNSPARCE	131	128	225	normal
+Gligar	207	GLIGAR	143	184	163	ground,flying
+Steelix	208	ONIX	148	272	181	steel,ground
+Snubbull	209	SNUBBULL	137	85	155	fairy
+Granbull	210	SNUBBULL	212	131	207	fairy
+Qwilfish	211	QWILFISH	184	138	163	water,poison
+Qwilfish (Hisuian)	211	QWILFISH	184	151	163	dark,poison
+Scizor	212	SCYTHER	236	181	172	bug,steel
+Shuckle	213	SHUCKLE	17	396	85	bug,rock
+Heracross	214	HERACROSS	234	179	190	bug,fighting
+Sneasel	215	SNEASEL	189	146	146	dark,ice
+Sneasel (Hisuian)	215	SNEASEL	189	146	146	fighting,poison
+Teddiursa	216	TEDDIURSA	142	93	155	normal
+Ursaring	217	TEDDIURSA	236	144	207	normal
+Slugma	218	SLUGMA	118	71	120	fire
+Magcargo	219	SLUGMA	139	191	137	fire,rock
+Swinub	220	SWINUB	90	69	137	ice,ground
+Piloswine	221	SWINUB	181	138	225	ice,ground
+Corsola	222	CORSOLA	118	156	146	water,rock
+Corsola (Galarian)	222	CORSOLA	116	182	155	ghost
+Remoraid	223	REMORAID	127	69	111	water
+Octillery	224	REMORAID	197	141	181	water
+Delibird	225	DELIBIRD	128	90	128	ice,flying
+Mantine	226	MANTINE	148	226	163	water,flying
+Skarmory	227	SKARMORY	148	226	163	steel,flying
+Houndour	228	HOUNDOUR	152	83	128	dark,fire
+Houndoom	229	HOUNDOUR	224	144	181	dark,fire
+Kingdra	230	HORSEA	194	194	181	water,dragon
+Phanpy	231	PHANPY	107	98	207	ground
+Donphan	232	PHANPY	214	185	207	ground
+Porygon2	233	PORYGON	198	180	198	normal
+Stantler	234	STANTLER	192	131	177	normal
+Smeargle	235	SMEARGLE	40	83	146	normal
+Tyrogue	236	TYROGUE	64	64	111	fighting
+Hitmontop	237	TYROGUE	173	207	137	fighting
+Smoochum	238	JYNX	153	91	128	ice,psychic
+Elekid	239	ELECTABUZZ	135	101	128	electric
+Magby	240	MAGMAR	151	99	128	fire
+Miltank	241	MILTANK	157	193	216	normal
+Blissey	242	CHANSEY	129	169	496	normal
+Raikou	243	RAIKOU	241	195	207	electric
+Entei	244	ENTEI	235	171	251	fire
+Suicune	245	SUICUNE	180	235	225	water
+Larvitar	246	LARVITAR	115	93	137	rock,ground
+Pupitar	247	LARVITAR	155	133	172	rock,ground
+Tyranitar	248	LARVITAR	251	207	225	rock,dark
+Lugia	249	LUGIA	193	310	235	psychic,flying
+Ho-Oh	250	HOOH	239	244	214	fire,flying
+Celebi	251	CELEBI	210	210	225	psychic,grass
+Treecko	252	TREECKO	124	94	120	grass
+Grovyle	253	TREECKO	172	120	137	grass
+Sceptile	254	TREECKO	223	169	172	grass
+Torchic	255	TORCHIC	130	87	128	fire
+Combusken	256	TORCHIC	163	115	155	fire,fighting
+Blaziken	257	TORCHIC	240	141	190	fire,fighting
+Mudkip	258	MUDKIP	126	93	137	water
+Marshtomp	259	MUDKIP	156	133	172	water,ground
+Swampert	260	MUDKIP	208	175	225	water,ground
+Poochyena	261	POOCHYENA	96	61	111	dark
+Mightyena	262	POOCHYENA	171	132	172	dark
+Zigzagoon	263	ZIGZAGOON	58	80	116	normal
+Zigzagoon (Galarian)	263	ZIGZAGOON	58	80	116	dark,normal
+Linoone	264	ZIGZAGOON	142	128	186	normal
+Linoone (Galarian)	264	ZIGZAGOON	142	128	186	dark,normal
+Wurmple	265	WURMPLE	75	59	128	bug
+Silcoon	266	WURMPLE	60	77	137	bug
+Beautifly	267	WURMPLE	189	98	155	bug,flying
+Cascoon	268	WURMPLE	60	77	137	bug
+Dustox	269	WURMPLE	98	162	155	bug,poison
+Lotad	270	LOTAD	71	77	120	water,grass
+Lombre	271	LOTAD	112	119	155	water,grass
+Ludicolo	272	LOTAD	173	176	190	water,grass
+Seedot	273	SEEDOT	71	77	120	grass
+Nuzleaf	274	SEEDOT	134	78	172	grass,dark
+Shiftry	275	SEEDOT	200	121	207	grass,dark
+Taillow	276	TAILLOW	106	61	120	normal,flying
+Swellow	277	TAILLOW	185	124	155	normal,flying
+Wingull	278	WINGULL	106	61	120	water,flying
+Pelipper	279	WINGULL	175	174	155	water,flying
+Ralts	280	RALTS	79	59	99	psychic,fairy
+Kirlia	281	RALTS	117	90	116	psychic,fairy
+Gardevoir	282	RALTS	237	195	169	psychic,fairy
+Surskit	283	SURSKIT	93	87	120	bug,water
+Masquerain	284	SURSKIT	192	150	172	bug,flying
+Shroomish	285	SHROOMISH	74	110	155	grass
+Breloom	286	SHROOMISH	241	144	155	grass,fighting
+Slakoth	287	SLAKOTH	104	92	155	normal
+Vigoroth	288	SLAKOTH	159	145	190	normal
+Slaking	289	SLAKOTH	290	166	284	normal
+Nincada	290	NINCADA	80	126	104	bug,ground
+Ninjask	291	NINCADA	199	112	156	bug,flying
+Shedinja	292	NINCADA	153	73	1	bug,ghost
+Whismur	293	WHISMUR	92	42	162	normal
+Loudred	294	WHISMUR	134	81	197	normal
+Exploud	295	WHISMUR	179	137	232	normal
+Makuhita	296	MAKUHITA	99	54	176	fighting
+Hariyama	297	MAKUHITA	209	114	302	fighting
+Azurill	298	MARILL	36	71	137	normal,fairy
+Nosepass	299	NOSEPASS	82	215	102	rock
+Skitty	300	SKITTY	84	79	137	normal
+Delcatty	301	SKITTY	132	127	172	normal
+Sableye	302	SABLEYE	141	136	137	dark,ghost
+Mawile	303	MAWILE	155	141	137	steel,fairy
+Aron	304	ARON	121	141	137	steel,rock
+Lairon	305	ARON	158	198	155	steel,rock
+Aggron	306	ARON	198	257	172	steel,rock
+Meditite	307	MEDITITE	78	107	102	fighting,psychic
+Medicham	308	MEDITITE	121	152	155	fighting,psychic
+Electrike	309	ELECTRIKE	123	78	120	electric
+Manectric	310	ELECTRIKE	215	127	172	electric
+Plusle	311	PLUSLE	167	129	155	electric
+Minun	312	MINUN	147	150	155	electric
+Volbeat	313	VOLBEAT	143	166	163	bug
+Illumise	314	ILLUMISE	143	166	163	bug
+Roselia	315	ROSELIA	186	131	137	grass,poison
+Gulpin	316	GULPIN	80	99	172	poison
+Swalot	317	GULPIN	140	159	225	poison
+Carvanha	318	CARVANHA	171	39	128	water,dark
+Sharpedo	319	CARVANHA	243	83	172	water,dark
+Wailmer	320	WAILMER	136	68	277	water
+Wailord	321	WAILMER	175	87	347	water
+Numel	322	NUMEL	119	79	155	fire,ground
+Camerupt	323	NUMEL	194	136	172	fire,ground
+Torkoal	324	TORKOAL	151	203	172	fire
+Spoink	325	SPOINK	125	122	155	psychic
+Grumpig	326	SPOINK	171	188	190	psychic
+Spinda	327	SPINDA	116	116	155	normal
+Trapinch	328	TRAPINCH	162	78	128	ground
+Vibrava	329	TRAPINCH	134	99	137	ground,dragon
+Flygon	330	TRAPINCH	205	168	190	ground,dragon
+Cacnea	331	CACNEA	156	74	137	grass
+Cacturne	332	CACNEA	221	115	172	grass,dark
+Swablu	333	SWABLU	76	132	128	normal,flying
+Altaria	334	SWABLU	141	201	181	dragon,flying
+Zangoose	335	ZANGOOSE	222	124	177	normal
+Seviper	336	SEVIPER	196	118	177	poison
+Lunatone	337	LUNATONE	178	153	207	rock,psychic
+Solrock	338	SOLROCK	178	153	207	rock,psychic
+Barboach	339	BARBOACH	93	82	137	water,ground
+Whiscash	340	BARBOACH	151	141	242	water,ground
+Corphish	341	CORPHISH	141	99	125	water
+Crawdaunt	342	CORPHISH	224	142	160	water,dark
+Baltoy	343	BALTOY	77	124	120	ground,psychic
+Claydol	344	BALTOY	140	229	155	ground,psychic
+Lileep	345	LILEEP	105	150	165	rock,grass
+Cradily	346	LILEEP	152	194	200	rock,grass
+Anorith	347	ANORITH	176	100	128	rock,bug
+Armaldo	348	ANORITH	222	174	181	rock,bug
+Feebas	349	FEEBAS	29	85	85	water
+Milotic	350	FEEBAS	192	219	216	water
+Castform	351	CASTFORM	139	139	172	normal
+Castform (Rainy)	351	CASTFORM	139	139	172	water
+Castform (Snowy)	351	CASTFORM	139	139	172	ice
+Castform (Sunny)	351	CASTFORM	139	139	172	fire
+Kecleon	352	KECLEON	161	189	155	normal
+Shuppet	353	SHUPPET	138	65	127	ghost
+Banette	354	SHUPPET	218	126	162	ghost
+Duskull	355	DUSKULL	70	162	85	ghost
+Dusclops	356	DUSKULL	124	234	120	ghost
+Tropius	357	TROPIUS	136	163	223	grass,flying
+Chimecho	358	CHIMECHO	175	170	181	psychic
+Absol	359	ABSOL	246	120	163	dark
+Wynaut	360	WOBBUFFET	41	86	216	psychic
+Snorunt	361	SNORUNT	95	95	137	ice
+Glalie	362	SNORUNT	162	162	190	ice
+Spheal	363	SPHEAL	95	90	172	ice,water
+Sealeo	364	SPHEAL	137	132	207	ice,water
+Walrein	365	SPHEAL	182	176	242	ice,water
+Clamperl	366	CLAMPERL	133	135	111	water
+Huntail	367	CLAMPERL	197	179	146	water
+Gorebyss	368	CLAMPERL	211	179	146	water
+Relicanth	369	RELICANTH	162	203	225	water,rock
+Luvdisc	370	LUVDISC	81	128	125	water
+Bagon	371	BAGON	134	93	128	dragon
+Shelgon	372	BAGON	172	155	163	dragon
+Salamence	373	BAGON	277	168	216	dragon,flying
+Beldum	374	BELDUM	96	132	120	steel,psychic
+Metang	375	BELDUM	138	176	155	steel,psychic
+Metagross	376	BELDUM	257	228	190	steel,psychic
+Regirock	377	REGIROCK	179	309	190	rock
+Regice	378	REGICE	179	309	190	ice
+Registeel	379	REGISTEEL	143	285	190	steel
+Latias	380	LATIAS	228	246	190	dragon,psychic
+Latios	381	LATIOS	268	212	190	dragon,psychic
+Kyogre	382	KYOGRE	270	228	205	water
+Groudon	383	GROUDON	270	228	205	ground
+Rayquaza	384	RAYQUAZA	284	170	213	dragon,flying
+Jirachi	385	JIRACHI	210	210	225	steel,psychic
+Deoxys	386	DEOXYS	345	115	137	psychic
+Deoxys (Attack)	386	DEOXYS	414	46	137	psychic
+Deoxys (Defense)	386	DEOXYS	144	330	137	psychic
+Deoxys (Speed)	386	DEOXYS	230	218	137	psychic
+Turtwig	387	TURTWIG	119	110	146	grass
+Grotle	388	TURTWIG	157	143	181	grass
+Torterra	389	TURTWIG	202	188	216	grass,ground
+Chimchar	390	CHIMCHAR	113	86	127	fire
+Monferno	391	CHIMCHAR	158	105	162	fire,fighting
+Infernape	392	CHIMCHAR	222	151	183	fire,fighting
+Piplup	393	PIPLUP	112	102	142	water
+Prinplup	394	PIPLUP	150	139	162	water
+Empoleon	395	PIPLUP	210	186	197	water,steel
+Starly	396	STARLY	101	58	120	normal,flying
+Staravia	397	STARLY	142	94	146	normal,flying
+Staraptor	398	STARLY	234	140	198	normal,flying
+Bidoof	399	BIDOOF	80	73	153	normal
+Bibarel	400	BIDOOF	162	119	188	normal,water
+Kricketot	401	KRICKETOT	45	74	114	bug
+Kricketune	402	KRICKETOT	160	100	184	bug
+Shinx	403	SHINX	117	64	128	electric
+Luxio	404	SHINX	159	95	155	electric
+Luxray	405	SHINX	232	156	190	electric
+Budew	406	ROSELIA	91	109	120	grass,poison
+Roserade	407	ROSELIA	243	185	155	grass,poison
+Cranidos	408	CRANIDOS	218	71	167	rock
+Rampardos	409	CRANIDOS	295	109	219	rock
+Shieldon	410	SHIELDON	76	195	102	rock,steel
+Bastiodon	411	SHIELDON	94	286	155	rock,steel
+Burmy (Plant)	412	BURMY	53	83	120	bug
+Burmy (Sandy)	412	BURMY	53	83	120	bug
+Burmy (Trash)	412	BURMY	53	83	120	bug
+Wormadam (Plant)	413	BURMY	141	180	155	bug,grass
+Wormadam (Sandy)	413	BURMY	141	180	155	bug,ground
+Wormadam (Trash)	413	BURMY	127	175	155	bug,steel
+Mothim	414	BURMY	185	98	172	bug,flying
+Combee	415	COMBEE	59	83	102	bug,flying
+Vespiquen	416	COMBEE	149	190	172	bug,flying
+Pachirisu	417	PACHIRISU	94	172	155	electric
+Buizel	418	BUIZEL	132	67	146	water
+Floatzel	419	BUIZEL	221	114	198	water
+Cherubi	420	CHERUBI	108	92	128	grass
+Cherrim (Overcast)	421	CHERUBI	170	153	172	grass
+Cherrim (Sunshine)	421	CHERUBI	170	153	172	grass
+Shellos	422	SHELLOS	103	105	183	water
+Gastrodon	423	GASTRODON	169	143	244	water,ground
+Ambipom	424	AIPOM	205	143	181	normal
+Drifloon	425	DRIFLOON	117	80	207	ghost,flying
+Drifblim	426	DRIFLOON	180	102	312	ghost,flying
+Buneary	427	BUNEARY	130	105	146	normal
+Lopunny	428	BUNEARY	156	194	163	normal
+Mismagius	429	MISDREAVUS	211	187	155	ghost
+Honchkrow	430	MURKROW	243	103	225	dark,flying
+Glameow	431	GLAMEOW	109	82	135	normal
+Purugly	432	GLAMEOW	172	133	174	normal
+Chingling	433	CHIMECHO	114	94	128	psychic
+Stunky	434	STUNKY	121	90	160	poison,dark
+Skuntank	435	STUNKY	184	132	230	poison,dark
+Bronzor	436	BRONZOR	43	154	149	steel,psychic
+Bronzong	437	BRONZOR	161	213	167	steel,psychic
+Bonsly	438	SUDOWOODO	124	133	137	rock
+Mime (Jr)	439	MRMIME	125	142	85	psychic,fairy
+Happiny	440	CHANSEY	25	77	225	normal
+Chatot	441	CHATOT	183	91	183	normal,flying
+Spiritomb	442	SPIRITOMB	169	199	137	ghost,dark
+Gible	443	GIBLE	124	84	151	dragon,ground
+Gabite	444	GIBLE	172	125	169	dragon,ground
+Garchomp	445	GIBLE	261	193	239	dragon,ground
+Munchlax	446	SNORLAX	137	117	286	normal
+Riolu	447	LUCARIO	127	78	120	fighting
+Lucario	448	LUCARIO	236	144	172	fighting,steel
+Hippopotas	449	HIPPOPOTAS	124	118	169	ground
+Hippowdon	450	HIPPOPOTAS	201	191	239	ground
+Skorupi	451	SKORUPI	93	151	120	poison,bug
+Drapion	452	SKORUPI	180	202	172	poison,dark
+Croagunk	453	CROAGUNK	116	76	134	poison,fighting
+Toxicroak	454	CROAGUNK	211	133	195	poison,fighting
+Carnivine	455	CARNIVINE	187	136	179	grass
+Finneon	456	FINNEON	96	116	135	water
+Lumineon	457	FINNEON	142	170	170	water
+Mantyke	458	MANTINE	105	179	128	water,flying
+Snover	459	SNOVER	115	105	155	grass,ice
+Abomasnow	460	SNOVER	178	158	207	grass,ice
+Weavile	461	SNEASEL	243	171	172	dark,ice
+Magnezone	462	MAGNEMITE	238	205	172	electric,steel
+Lickilicky	463	LICKITUNG	161	181	242	normal
+Rhyperior	464	RHYHORN	241	190	251	ground,rock
+Tangrowth	465	TANGELA	207	184	225	grass
+Electivire	466	ELECTABUZZ	249	163	181	electric
+Magmortar	467	MAGMAR	247	172	181	fire
+Togekiss	468	TOGEPI	225	217	198	fairy,flying
+Yanmega	469	YANMA	231	156	200	bug,flying
+Leafeon	470	EEVEE	216	219	163	grass
+Glaceon	471	EEVEE	238	205	163	ice
+Gliscor	472	GLIGAR	185	222	181	ground,flying
+Mamoswine	473	SWINUB	247	146	242	ice,ground
+Porygon-Z	474	PORYGON	264	150	198	normal
+Gallade	475	RALTS	237	195	169	psychic,fighting
+Probopass	476	NOSEPASS	135	275	155	rock,steel
+Dusknoir	477	DUSKULL	180	254	128	ghost
+Froslass	478	SNORUNT	171	150	172	ice,ghost
+Rotom	479	ROTOM	185	159	137	electric,ghost
+Rotom (Fan)	479	ROTOM	204	219	137	electric,flying
+Rotom (Frost)	479	ROTOM	204	219	137	electric,ice
+Rotom (Heat)	479	ROTOM	204	219	137	electric,fire
+Rotom (Mow)	479	ROTOM	204	219	137	electric,grass
+Rotom (Wash)	479	ROTOM	204	219	137	electric,water
+Uxie	480	UXIE	156	270	181	psychic
+Mesprit	481	MESPRIT	212	212	190	psychic
+Azelf	482	AZELF	270	151	181	psychic
+Dialga	483	DIALGA	275	211	205	steel,dragon
+Dialga (Origin)	483	DIALGA	270	225	205	steel,dragon
+Palkia	484	PALKIA	280	215	189	water,dragon
+Palkia (Origin)	484	PALKIA	286	223	189	water,dragon
+Heatran	485	HEATRAN	251	213	209	fire,steel
+Regigigas	486	REGIGIGAS	287	210	221	normal
+Giratina (Altered)	487	GIRATINA	187	225	284	ghost,dragon
+Giratina (Origin)	487	GIRATINA	225	187	284	ghost,dragon
+Cresselia	488	CRESSELIA	152	258	260	psychic
+Phione	489	PHIONE	162	162	190	water
+Manaphy	490	MANAPHY	210	210	225	water
+Darkrai	491	DARKRAI	285	198	172	dark
+Shaymin (Land)	492	SHAYMIN	210	210	225	grass
+Shaymin (Sky)	492	SHAYMIN	261	166	225	grass,flying
+Arceus	493	ARCEUS	238	238	237	normal
+Arceus (Bug)	493	ARCEUS	238	238	237	bug
+Arceus (Dark)	493	ARCEUS	238	238	237	dark
+Arceus (Dragon)	493	ARCEUS	238	238	237	dragon
+Arceus (Electric)	493	ARCEUS	238	238	237	electric
+Arceus (Fairy)	493	ARCEUS	238	238	237	fairy
+Arceus (Fighting)	493	ARCEUS	238	238	237	fighting
+Arceus (Fire)	493	ARCEUS	238	238	237	fire
+Arceus (Flying)	493	ARCEUS	238	238	237	flying
+Arceus (Ghost)	493	ARCEUS	238	238	237	ghost
+Arceus (Grass)	493	ARCEUS	238	238	237	grass
+Arceus (Ground)	493	ARCEUS	238	238	237	ground
+Arceus (Ice)	493	ARCEUS	238	238	237	ice
+Arceus (Poison)	493	ARCEUS	238	238	237	poison
+Arceus (Psychic)	493	ARCEUS	238	238	237	psychic
+Arceus (Rock)	493	ARCEUS	238	238	237	rock
+Arceus (Steel)	493	ARCEUS	238	238	237	steel
+Arceus (Water)	493	ARCEUS	238	238	237	water
+Victini	494	VICTINI	210	210	225	psychic,fire
+Snivy	495	SNIVY	88	107	128	grass
+Servine	496	SNIVY	122	152	155	grass
+Serperior	497	SNIVY	161	204	181	grass
+Tepig	498	TEPIG	115	85	163	fire
+Pignite	499	TEPIG	173	106	207	fire,fighting
+Emboar	500	TEPIG	235	127	242	fire,fighting
+Oshawott	501	OSHAWOTT	117	85	146	water
+Dewott	502	OSHAWOTT	159	116	181	water
+Samurott	503	OSHAWOTT	212	157	216	water
+Samurott (Hisuian)	503	OSHAWOTT	218	152	207	water,dark
+Patrat	504	PATRAT	98	73	128	normal
+Watchog	505	PATRAT	165	139	155	normal
+Lillipup	506	LILLIPUP	107	86	128	normal
+Herdier	507	LILLIPUP	145	126	163	normal
+Stoutland	508	LILLIPUP	206	182	198	normal
+Purrloin	509	PURRLOIN	98	73	121	dark
+Liepard	510	PURRLOIN	187	106	162	dark
+Pansage	511	PANSAGE	104	94	137	grass
+Simisage	512	PANSAGE	206	133	181	grass
+Pansear	513	PANSEAR	104	94	137	fire
+Simisear	514	PANSEAR	206	133	181	fire
+Panpour	515	PANPOUR	104	94	137	water
+Simipour	516	PANPOUR	206	133	181	water
+Munna	517	MUNNA	111	92	183	psychic
+Musharna	518	MUNNA	183	166	253	psychic
+Pidove	519	PIDOVE	98	80	137	normal,flying
+Tranquill	520	PIDOVE	144	107	158	normal,flying
+Unfezant	521	PIDOVE	226	146	190	normal,flying
+Blitzle	522	BLITZLE	118	64	128	electric
+Zebstrika	523	BLITZLE	211	136	181	electric
+Roggenrola	524	ROGGENROLA	121	110	146	rock
+Boldore	525	ROGGENROLA	174	143	172	rock
+Gigalith	526	ROGGENROLA	226	201	198	rock
+Woobat	527	WOOBAT	107	85	163	psychic,flying
+Swoobat	528	WOOBAT	161	119	167	psychic,flying
+Drilbur	529	DRILBUR	154	85	155	ground
+Excadrill	530	DRILBUR	255	129	242	ground,steel
+Audino	531	AUDINO	114	163	230	normal
+Timburr	532	TIMBURR	134	87	181	fighting
+Gurdurr	533	TIMBURR	180	134	198	fighting
+Conkeldurr	534	TIMBURR	243	158	233	fighting
+Tympole	535	TYMPOLE	98	78	137	water
+Palpitoad	536	TYMPOLE	128	109	181	water,ground
+Seismitoad	537	TYMPOLE	188	150	233	water,ground
+Throh	538	THROH	172	160	260	fighting
+Sawk	539	SAWK	231	153	181	fighting
+Sewaddle	540	SEWADDLE	96	124	128	bug,grass
+Swadloon	541	SEWADDLE	115	162	146	bug,grass
+Leavanny	542	SEWADDLE	205	165	181	bug,grass
+Venipede	543	VENIPEDE	83	99	102	bug,poison
+Whirlipede	544	VENIPEDE	100	173	120	bug,poison
+Scolipede	545	VENIPEDE	203	175	155	bug,poison
+Cottonee	546	COTTONEE	71	111	120	grass,fairy
+Whimsicott	547	COTTONEE	164	176	155	grass,fairy
+Petilil	548	PETILIL	119	91	128	grass
+Lilligant	549	PETILIL	214	155	172	grass
+Lilligant (Hisuian)	549	PETILIL	208	159	172	grass,fighting
+Basculin	550	BASCULIN	189	129	172	water
+Sandile	551	SANDILE	132	69	137	ground,dark
+Krokorok	552	SANDILE	155	90	155	ground,dark
+Krookodile	553	SANDILE	229	158	216	ground,dark
+Darumaka	554	DARUMAKA	153	86	172	fire
+Darumaka (Galarian)	554	DARUMAKA	153	86	172	ice
+Darmanitan (Galarian Zen)	555	DARUMAKA	323	123	233	ice,fire
+Darmanitan (Galarian)	555	DARUMAKA	263	114	233	ice
+Darmanitan (Standard)	555	DARUMAKA	263	114	233	fire
+Darmanitan (Zen)	555	DARUMAKA	243	202	233	fire,psychic
+Maractus	556	MARACTUS	201	130	181	grass
+Dwebble	557	DWEBBLE	118	128	137	bug,rock
+Crustle	558	DWEBBLE	188	200	172	bug,rock
+Scraggy	559	SCRAGGY	132	132	137	dark,fighting
+Scrafty	560	SCRAGGY	163	222	163	dark,fighting
+Sigilyph	561	SIGILYPH	204	167	176	psychic,flying
+Yamask	562	YAMASK	95	141	116	ghost
+Yamask (Galarian)	562	YAMASK	95	141	116	ground,ghost
+Cofagrigus	563	YAMASK	163	237	151	ghost
+Tirtouga	564	TIRTOUGA	134	146	144	water,rock
+Carracosta	565	TIRTOUGA	192	197	179	water,rock
+Archen	566	ARCHEN	213	89	146	rock,flying
+Archeops	567	ARCHEN	292	139	181	rock,flying
+Trubbish	568	TRUBBISH	96	122	137	poison
+Garbodor	569	TRUBBISH	181	164	190	poison
+Zorua	570	ZORUA	153	78	120	dark
+Zorua (Hisuian)	570	ZORUA	162	79	111	normal,ghost
+Zoroark	571	ZORUA	250	127	155	dark
+Zoroark (Hisuian)	571	ZORUA	261	128	146	normal,ghost
+Minccino	572	MINCCINO	98	80	146	normal
+Cinccino	573	MINCCINO	198	130	181	normal
+Gothita	574	GOTHITA	98	112	128	psychic
+Gothorita	575	GOTHITA	137	153	155	psychic
+Gothitelle	576	GOTHITA	176	205	172	psychic
+Solosis	577	SOLOSIS	170	83	128	psychic
+Duosion	578	SOLOSIS	208	103	163	psychic
+Reuniclus	579	SOLOSIS	214	148	242	psychic
+Ducklett	580	DUCKLETT	84	96	158	water,flying
+Swanna	581	DUCKLETT	182	132	181	water,flying
+Vanillite	582	VANILLITE	118	106	113	ice
+Vanillish	583	VANILLITE	151	138	139	ice
+Vanilluxe	584	VANILLITE	218	184	174	ice
+Deerling	585	DEERLING	115	100	155	normal,grass
+Sawsbuck	586	DEERLING	198	146	190	normal,grass
+Emolga	587	EMOLGA	158	127	146	electric,flying
+Karrablast	588	KARRABLAST	137	87	137	bug
+Escavalier	589	KARRABLAST	223	187	172	bug,steel
+Foongus	590	FOONGUS	97	91	170	grass,poison
+Amoonguss	591	FOONGUS	155	139	249	grass,poison
+Frillish	592	FRILLISH	115	134	146	water,ghost
+Jellicent	593	FRILLISH	159	178	225	water,ghost
+Alomomola	594	ALOMOMOLA	138	131	338	water
+Joltik	595	JOLTIK	110	98	137	bug,electric
+Galvantula	596	JOLTIK	201	128	172	bug,electric
+Ferroseed	597	FERROSEED	82	155	127	grass,steel
+Ferrothorn	598	FERROSEED	158	223	179	grass,steel
+Klink	599	KLINK	98	121	120	steel
+Klang	600	KLINK	150	174	155	steel
+Klinklang	601	KLINK	199	214	155	steel
+Tynamo	602	TYNAMO	105	78	111	electric
+Eelektrik	603	TYNAMO	156	130	163	electric
+Eelektross	604	TYNAMO	217	152	198	electric
+Elgyem	605	ELGYEM	148	100	146	psychic
+Beheeyem	606	ELGYEM	221	163	181	psychic
+Litwick	607	LITWICK	108	98	137	ghost,fire
+Lampent	608	LITWICK	169	115	155	ghost,fire
+Chandelure	609	LITWICK	271	182	155	ghost,fire
+Axew	610	AXEW	154	101	130	dragon
+Fraxure	611	AXEW	212	123	165	dragon
+Haxorus	612	AXEW	284	172	183	dragon
+Cubchoo	613	CUBCHOO	128	74	146	ice
+Beartic	614	CUBCHOO	233	152	216	ice
+Cryogonal	615	CRYOGONAL	190	218	190	ice
+Shelmet	616	SHELMET	72	140	137	bug
+Accelgor	617	SHELMET	220	120	190	bug
+Stunfisk	618	STUNFISK	144	171	240	ground,electric
+Stunfisk (Galarian)	618	STUNFISK	144	171	240	ground,steel
+Mienfoo	619	MIENFOO	160	98	128	fighting
+Mienshao	620	MIENFOO	258	127	163	fighting
+Druddigon	621	DRUDDIGON	213	170	184	dragon
+Golett	622	GOLETT	127	92	153	ground,ghost
+Golurk	623	GOLETT	222	154	205	ground,ghost
+Pawniard	624	PAWNIARD	154	114	128	dark,steel
+Bisharp	625	PAWNIARD	232	176	163	dark,steel
+Bouffalant	626	BOUFFALANT	195	182	216	normal
+Rufflet	627	RUFFLET	150	97	172	normal,flying
+Braviary	628	RUFFLET	232	152	225	normal,flying
+Braviary (Hisuian)	628	RUFFLET	213	137	242	psychic,flying
+Vullaby	629	VULLABY	105	139	172	dark,flying
+Mandibuzz	630	VULLABY	129	205	242	dark,flying
+Heatmor	631	HEATMOR	204	129	198	fire
+Durant	632	DURANT	217	188	151	bug,steel
+Deino	633	DEINO	116	93	141	dark,dragon
+Zweilous	634	DEINO	159	135	176	dark,dragon
+Hydreigon	635	DEINO	256	188	211	dark,dragon
+Larvesta	636	LARVESTA	156	107	146	bug,fire
+Volcarona	637	LARVESTA	264	189	198	bug,fire
+Cobalion	638	COBALION	192	229	209	steel,fighting
+Terrakion	639	TERRAKION	260	192	209	rock,fighting
+Virizion	640	VIRIZION	192	229	209	grass,fighting
+Tornadus (Incarnate)	641	TORNADUS	266	164	188	flying
+Tornadus (Therian)	641	TORNADUS	238	189	188	flying
+Thundurus (Incarnate)	642	THUNDURUS	266	164	188	electric,flying
+Thundurus (Therian)	642	THUNDURUS	295	161	188	electric,flying
+Reshiram	643	RESHIRAM	275	211	205	dragon,fire
+Zekrom	644	ZEKROM	275	211	205	dragon,electric
+Landorus (Incarnate)	645	LANDORUS	261	182	205	ground,flying
+Landorus (Therian)	645	LANDORUS	289	179	205	ground,flying
+Kyurem	646	KYUREM	246	170	245	dragon,ice
+Kyurem (Black)	646	KYUREM	310	183	245	dragon,ice
+Kyurem (White)	646	KYUREM	310	183	245	dragon,ice
+Keldeo (Ordinary)	647	KELDEO	260	192	209	water,fighting
+Keldeo (Resolute)	647	KELDEO	260	192	209	water,fighting
+Meloetta (Aria)	648	MELOETTA	250	225	225	normal,psychic
+Meloetta (Pirouette)	648	MELOETTA	269	188	225	normal,fighting
+Genesect	649	GENESECT	252	199	174	bug,steel
+Genesect (Burn)	649	GENESECT	252	199	174	bug,steel
+Genesect (Chill)	649	GENESECT	252	199	174	bug,steel
+Genesect (Douse)	649	GENESECT	252	199	174	bug,steel
+Genesect (Shock)	649	GENESECT	252	199	174	bug,steel
+Chespin	650	CHESPIN	110	106	148	grass
+Quilladin	651	CHESPIN	146	156	156	grass
+Chesnaught	652	CHESPIN	201	204	204	grass,fighting
+Fennekin	653	FENNEKIN	116	102	120	fire
+Braixen	654	FENNEKIN	171	130	153	fire
+Delphox	655	FENNEKIN	230	189	181	fire,psychic
+Froakie	656	FROAKIE	122	84	121	water
+Frogadier	657	FROAKIE	168	114	144	water
+Greninja	658	FROAKIE	223	152	176	water,dark
+Bunnelby	659	BUNNELBY	68	72	116	normal
+Diggersby	660	BUNNELBY	112	155	198	normal,ground
+Fletchling	661	FLETCHLING	95	80	128	normal,flying
+Fletchinder	662	FLETCHLING	145	110	158	fire,flying
+Talonflame	663	FLETCHLING	176	155	186	fire,flying
+Scatterbug	664	SCATTERBUG	63	63	116	bug
+Spewpa	665	SCATTERBUG	48	89	128	bug
+Vivillon	666	SCATTERBUG	176	103	190	bug,flying
+Litleo	667	LITLEO	139	112	158	fire,normal
+Pyroar	668	LITLEO	221	149	200	fire,normal
+Flabebe	669	FLABEBE	108	120	127	fairy
+Floette	670	FLABEBE	136	151	144	fairy
+Florges	671	FLABEBE	212	244	186	fairy
+Skiddo	672	SKIDDO	123	102	165	grass
+Gogoat	673	SKIDDO	196	146	265	grass
+Pancham	674	PANCHAM	145	107	167	fighting
+Pangoro	675	PANCHAM	226	146	216	fighting,dark
+Furfrou	676	FURFROU	164	167	181	normal
+Espurr	677	ESPURR	120	114	158	psychic
+Meowstic (Female)	678	ESPURR	166	167	179	psychic
+Meowstic (Male)	678	ESPURR	166	167	179	psychic
+Honedge	679	HONEDGE	135	139	128	steel,ghost
+Doublade	680	HONEDGE	188	206	153	steel,ghost
+Aegislash (Blade)	681	HONEDGE	272	97	155	steel,ghost
+Aegislash (Shield)	681	HONEDGE	97	272	155	steel,ghost
+Spritzee	682	SPRITZEE	110	113	186	fairy
+Aromatisse	683	SPRITZEE	173	150	226	fairy
+Swirlix	684	SWIRLIX	109	119	158	fairy
+Slurpuff	685	SWIRLIX	168	163	193	fairy
+Inkay	686	INKAY	98	95	142	dark,psychic
+Malamar	687	INKAY	177	165	200	dark,psychic
+Binacle	688	BINACLE	96	120	123	rock,water
+Barbaracle	689	BINACLE	194	205	176	rock,water
+Skrelp	690	SKRELP	109	109	137	poison,water
+Dragalge	691	SKRELP	177	207	163	poison,dragon
+Clauncher	692	CLAUNCHER	108	117	137	water
+Clawitzer	693	CLAUNCHER	221	171	174	water
+Helioptile	694	HELIOPTILE	115	78	127	electric,normal
+Heliolisk	695	HELIOPTILE	219	168	158	electric,normal
+Tyrunt	696	TYRUNT	158	123	151	rock,dragon
+Tyrantrum	697	TYRUNT	227	191	193	rock,dragon
+Amaura	698	AMAURA	124	109	184	rock,ice
+Aurorus	699	AMAURA	186	163	265	rock,ice
+Sylveon	700	EEVEE	203	205	216	fairy
+Hawlucha	701	HAWLUCHA	195	153	186	fighting,flying
+Dedenne	702	DEDENNE	164	134	167	electric,fairy
+Carbink	703	CARBINK	95	285	137	rock,fairy
+Goomy	704	GOOMY	101	112	128	dragon
+Sliggoo	705	GOOMY	159	176	169	dragon
+Sliggoo (Hisuian)	705	GOOMY	153	190	151	dragon,steel
+Goodra	706	GOOMY	220	242	207	dragon
+Goodra (Hisuian)	706	GOOMY	211	255	190	dragon,steel
+Klefki	707	KLEFKI	160	179	149	steel,fairy
+Phantump	708	PHANTUMP	125	103	125	ghost,grass
+Trevenant	709	PHANTUMP	201	154	198	ghost,grass
+Pumpkaboo (Average)	710	PUMPKABOO	121	123	135	ghost,grass
+Pumpkaboo (Large)	710	PUMPKABOO	120	122	144	ghost,grass
+Pumpkaboo (Small)	710	PUMPKABOO	122	124	127	ghost,grass
+Pumpkaboo (Super)	710	PUMPKABOO	118	120	153	ghost,grass
+Gourgeist (Average)	711	PUMPKABOO	175	213	163	ghost,grass
+Gourgeist (Large)	711	PUMPKABOO	179	206	181	ghost,grass
+Gourgeist (Small)	711	PUMPKABOO	171	219	146	ghost,grass
+Gourgeist (Super)	711	PUMPKABOO	182	200	198	ghost,grass
+Bergmite	712	BERGMITE	117	120	146	ice
+Avalugg	713	BERGMITE	196	240	216	ice
+Avalugg (Hisuian)	713	BERGMITE	214	238	216	ice,rock
+Noibat	714	NOIBAT	83	73	120	flying,dragon
+Noivern	715	NOIBAT	205	175	198	flying,dragon
+Xerneas	716	XERNEAS	250	185	246	fairy
+Yveltal	717	YVELTAL	250	185	246	dark,flying
+Zygarde (10% Forme)	718	ZYGARDE	205	173	144	dragon,ground
+Zygarde (50% Forme)	718	ZYGARDE	203	232	239	dragon,ground
+Zygarde (Complete Forme)	718	ZYGARDE	184	207	389	dragon,ground
+Diancie	719	DIANCIE	190	285	137	rock,fairy
+Hoopa	720	HOOPA	261	187	173	psychic,ghost
+Hoopa (Confined)	720	HOOPA	261	187	173	psychic,ghost
+Hoopa (Unbound)	720	HOOPA	311	191	173	psychic,dark
+Volcanion	721	VOLCANION	252	216	190	fire,water
+Rowlet	722	ROWLET	102	99	169	grass,flying
+Dartrix	723	ROWLET	142	139	186	grass,flying
+Decidueye	724	ROWLET	210	179	186	grass,ghost
+Decidueye (Hisuian)	724	ROWLET	213	174	204	grass,fighting
+Litten	725	LITTEN	128	79	128	fire
+Torracat	726	LITTEN	174	103	163	fire
+Incineroar	727	LITTEN	214	175	216	fire,dark
+Popplio	728	POPPLIO	120	103	137	water
+Brionne	729	POPPLIO	168	145	155	water
+Primarina	730	POPPLIO	232	195	190	water,fairy
+Pikipek	731	PIKIPEK	136	59	111	normal,flying
+Trumbeak	732	PIKIPEK	159	100	146	normal,flying
+Toucannon	733	PIKIPEK	222	146	190	normal,flying
+Yungoos	734	YUNGOOS	122	56	134	normal
+Gumshoos	735	YUNGOOS	194	113	204	normal
+Grubbin	736	GRUBBIN	115	85	132	bug
+Charjabug	737	GRUBBIN	145	161	149	bug,electric
+Vikavolt	738	GRUBBIN	254	158	184	bug,electric
+Crabrawler	739	CRABRAWLER	150	104	132	fighting
+Crabominable	740	CRABRAWLER	231	138	219	fighting,ice
+Oricorio (Baile)	741	ORICORIO	196	145	181	fire,flying
+Oricorio (Pa'u)	741	ORICORIO	196	145	181	psychic,flying
+Oricorio (Pom-Pom)	741	ORICORIO	196	145	181	electric,flying
+Oricorio (Sensu)	741	ORICORIO	196	145	181	ghost,flying
+Cutiefly	742	CUTIEFLY	110	81	120	bug,fairy
+Ribombee	743	CUTIEFLY	198	146	155	bug,fairy
+Rockruff	744	ROCKRUFF	117	78	128	rock
+Lycanroc (Dusk)	745	ROCKRUFF	234	139	181	rock
+Lycanroc (Midday)	745	ROCKRUFF	231	140	181	rock
+Lycanroc (Midnight)	745	ROCKRUFF	218	152	198	rock
+Wishiwashi	746	WISHIWASHI	46	43	128	water
+Wishiwashi (School)	746	WISHIWASHI	255	242	128	water
+Wishiwashi (Solo)	746	WISHIWASHI	46	43	128	water
+Mareanie	747	MAREANIE	98	110	137	poison,water
+Toxapex	748	MAREANIE	114	273	137	poison,water
+Mudbray	749	MUDBRAY	175	121	172	ground
+Mudsdale	750	MUDBRAY	214	174	225	ground
+Dewpider	751	DEWPIDER	72	117	116	water,bug
+Araquanid	752	DEWPIDER	126	219	169	water,bug
+Fomantis	753	FOMANTIS	100	64	120	grass
+Lurantis	754	FOMANTIS	192	169	172	grass
+Morelull	755	MORELULL	108	119	120	grass,fairy
+Shiinotic	756	MORELULL	154	168	155	grass,fairy
+Salandit	757	SALANDIT	136	80	134	poison,fire
+Salazzle	758	SALANDIT	228	130	169	poison,fire
+Stufful	759	STUFFUL	136	95	172	normal,fighting
+Bewear	760	STUFFUL	226	141	260	normal,fighting
+Bounsweet	761	BOUNSWEET	55	69	123	grass
+Steenee	762	BOUNSWEET	78	94	141	grass
+Tsareena	763	BOUNSWEET	222	195	176	grass
+Comfey	764	COMFEY	165	215	139	fairy
+Oranguru	765	ORANGURU	168	192	207	normal,psychic
+Passimian	766	PASSIMIAN	222	160	225	fighting
+Wimpod	767	WIMPOD	67	74	93	bug,water
+Golisopod	768	WIMPOD	218	226	181	bug,water
+Sandygast	769	SANDYGAST	120	118	146	ghost,ground
+Palossand	770	SANDYGAST	178	178	198	ghost,ground
+Pyukumuku	771	PYUKUMUKU	97	224	146	water
+Type (Null)	772	TYPENULL	184	184	216	normal
+Silvally	773	SILVALLY	198	198	216	normal
+Silvally (Bug)	773	SILVALLY	198	198	216	bug
+Silvally (Dark)	773	SILVALLY	198	198	216	dark
+Silvally (Dragon)	773	SILVALLY	198	198	216	dragon
+Silvally (Electric)	773	SILVALLY	198	198	216	electric
+Silvally (Fairy)	773	SILVALLY	198	198	216	fairy
+Silvally (Fighting)	773	SILVALLY	198	198	216	fighting
+Silvally (Fire)	773	SILVALLY	198	198	216	fire
+Silvally (Flying)	773	SILVALLY	198	198	216	flying
+Silvally (Ghost)	773	SILVALLY	198	198	216	ghost
+Silvally (Grass)	773	SILVALLY	198	198	216	grass
+Silvally (Ground)	773	SILVALLY	198	198	216	ground
+Silvally (Ice)	773	SILVALLY	198	198	216	ice
+Silvally (Poison)	773	SILVALLY	198	198	216	poison
+Silvally (Psychic)	773	SILVALLY	198	198	216	psychic
+Silvally (Rock)	773	SILVALLY	198	198	216	rock
+Silvally (Steel)	773	SILVALLY	198	198	216	steel
+Silvally (Water)	773	SILVALLY	198	198	216	water
+Minior (Core)	774	MINIOR	218	131	155	rock,flying
+Minior (Meteor)	774	MINIOR	116	194	155	rock,flying
+Komala	775	KOMALA	216	165	163	normal
+Turtonator	776	TURTONATOR	165	215	155	fire,dragon
+Togedemaru	777	TOGEDEMARU	190	145	163	electric,steel
+Mimikyu	778	MIMIKYU	177	199	146	ghost,fairy
+Mimikyu (Busted)	778	MIMIKYU	177	199	146	ghost,fairy
+Bruxish	779	BRUXISH	208	145	169	water,psychic
+Drampa	780	DRAMPA	231	164	186	normal,dragon
+Dhelmise	781	DHELMISE	233	179	172	ghost,grass
+Jangmo-o	782	JANGMOO	102	108	128	dragon
+Hakamo-o	783	JANGMOO	145	162	146	dragon,fighting
+Kommo-o	784	JANGMOO	222	240	181	dragon,fighting
+Tapu Koko	785	TAPUKOKO	250	181	172	electric,fairy
+Tapu Lele	786	TAPULELE	259	208	172	psychic,fairy
+Tapu Bulu	787	TAPUBULU	249	215	172	grass,fairy
+Tapu Fini	788	TAPUFINI	189	254	172	water,fairy
+Cosmog	789	COSMOG	54	57	125	psychic
+Cosmoem	790	COSMOG	54	242	125	psychic
+Solgaleo	791	COSMOG	255	191	264	psychic,steel
+Lunala	792	COSMOG	255	191	264	psychic,ghost
+Nihilego	793	NIHILEGO	249	210	240	rock,poison
+Buzzwole	794	BUZZWOLE	236	196	216	bug,fighting
+Pheromosa	795	PHEROMOSA	316	85	174	bug,fighting
+Xurkitree	796	XURKITREE	330	144	195	electric
+Celesteela	797	CELESTEELA	207	199	219	steel,flying
+Kartana	798	KARTANA	323	182	139	grass,steel
+Guzzlord	799	GUZZLORD	188	99	440	dark,dragon
+Necrozma	800	NECROZMA	251	195	219	psychic
+Necrozma (Dawn Wings)	800	NECROZMA	277	220	200	psychic,ghost
+Necrozma (Dusk Mane)	800	NECROZMA	277	220	200	psychic,steel
+Necrozma (Ultra)	800	NECROZMA	337	196	200	psychic,dragon
+Magearna	801	MAGEARNA	246	225	190	steel,fairy
+Marshadow	802	MARSHADOW	265	190	207	fighting,ghost
+Poipole	803	POIPOLE	145	133	167	poison
+Naganadel	804	POIPOLE	263	159	177	poison,dragon
+Stakataka	805	STAKATAKA	213	298	156	rock,steel
+Blacephalon	806	BLACEPHALON	315	148	142	fire,ghost
+Zeraora	807	ZERAORA	252	177	204	electric
+Meltan	808	MELTAN	118	99	130	steel
+Melmetal	809	MELTAN	226	190	264	steel
+Grookey	810	GROOKEY	122	91	137	grass
+Thwackey	811	GROOKEY	165	134	172	grass
+Rillaboom	812	GROOKEY	239	168	225	grass
+Scorbunny	813	SCORBUNNY	132	79	137	fire
+Raboot	814	SCORBUNNY	170	125	163	fire
+Cinderace	815	SCORBUNNY	238	163	190	fire
+Sobble	816	SOBBLE	132	79	137	water
+Drizzile	817	SOBBLE	186	113	163	water
+Inteleon	818	SOBBLE	262	142	172	water
+Skwovet	819	SKWOVET	95	86	172	normal
+Greedent	820	SKWOVET	160	156	260	normal
+Rookidee	821	ROOKIDEE	88	67	116	flying
+Corvisquire	822	ROOKIDEE	129	110	169	flying
+Corviknight	823	ROOKIDEE	163	192	221	flying,steel
+Blipbug	824	BLIPBUG	46	67	93	bug
+Dottler	825	BLIPBUG	87	157	137	bug,psychic
+Orbeetle	826	BLIPBUG	156	240	155	bug,psychic
+Nickit	827	NICKIT	85	82	120	dark
+Thievul	828	NICKIT	172	164	172	dark
+Gossifleur	829	GOSSIFLEUR	70	104	120	grass
+Eldegoss	830	GOSSIFLEUR	148	211	155	grass
+Wooloo	831	WOOLOO	76	97	123	normal
+Dubwool	832	WOOLOO	159	198	176	normal
+Chewtle	833	CHEWTLE	114	85	137	water
+Drednaw	834	CHEWTLE	213	164	207	water,rock
+Yamper	835	YAMPER	80	90	153	electric
+Boltund	836	YAMPER	197	131	170	electric
+Rolycoly	837	ROLYCOLY	73	91	102	rock
+Carkol	838	ROLYCOLY	114	157	190	rock,fire
+Coalossal	839	ROLYCOLY	146	198	242	rock,fire
+Applin	840	APPLIN	71	116	120	grass,dragon
+Flapple	841	APPLIN	214	144	172	grass,dragon
+Appletun	842	APPLIN	178	146	242	grass,dragon
+Silicobra	843	SILICOBRA	103	123	141	ground
+Sandaconda	844	SILICOBRA	202	207	176	ground
+Cramorant	845	CRAMORANT	173	163	172	flying,water
+Cramorant (Gorging)	845	CRAMORANT	173	163	172	flying,water
+Cramorant (Gulping)	845	CRAMORANT	173	163	172	flying,water
+Arrokuda	846	ARROKUDA	118	72	121	water
+Barraskewda	847	ARROKUDA	258	127	156	water
+Toxel	848	TOXEL	97	65	120	electric,poison
+Toxtricity	849	TOXEL	224	140	181	electric,poison
+Toxtricity (Amped)	849	TOXEL	224	140	181	electric,poison
+Toxtricity (Low Key)	849	TOXEL	224	140	181	electric,poison
+Sizzlipede	850	SIZZLIPEDE	118	90	137	fire,bug
+Centiskorch	851	SIZZLIPEDE	220	158	225	fire,bug
+Clobbopus	852	CLOBBOPUS	121	103	137	fighting
+Grapploct	853	CLOBBOPUS	209	162	190	fighting
+Sinistea	854	SINISTEA	134	96	120	ghost
+Polteageist	855	SINISTEA	248	189	155	ghost
+Hatenna	856	HATENNA	98	93	123	psychic
+Hattrem	857	HATENNA	153	133	149	psychic
+Hatterene	858	HATENNA	237	182	149	psychic,fairy
+Impidimp	859	IMPIDIMP	103	69	128	dark,fairy
+Morgrem	860	IMPIDIMP	145	102	163	dark,fairy
+Grimmsnarl	861	IMPIDIMP	227	139	216	dark,fairy
+Obstagoon	862	ZIGZAGOON	180	194	212	dark,normal
+Perrserker	863	MEOWTH	195	162	172	steel
+Cursola	864	CORSOLA	253	182	155	ghost
+Sirfetch'd	865	FARFETCHD	248	176	158	fighting
+Mr. Rime	866	MRMIME	212	179	190	ice,psychic
+Runerigus	867	YAMASK	163	237	151	ground,ghost
+Milcery	868	MILCERY	90	97	128	fairy
+Alcremie	869	MILCERY	203	203	163	fairy
+Falinks	870	FALINKS	193	170	163	fighting
+Pincurchin	871	PINCURCHIN	176	161	134	electric
+Snom	872	SNOM	76	59	102	ice,bug
+Frosmoth	873	SNOM	230	155	172	ice,bug
+Stonjourner	874	STONJOURNER	222	182	225	rock
+Eiscue	875	EISCUE	148	195	181	ice
+Eiscue (Ice)	875	EISCUE	148	195	181	ice
+Eiscue (Noice)	875	EISCUE	173	139	181	ice
+Indeedee (Female)	876	INDEEDEE	184	184	172	psychic,normal
+Indeedee (Male)	876	INDEEDEE	208	166	155	psychic,normal
+Morpeko (Full Belly)	877	MORPEKO	192	121	151	electric,dark
+Morpeko (Hangry)	877	MORPEKO	192	121	151	electric,dark
+Cufant	878	CUFANT	140	91	176	steel
+Copperajah	879	CUFANT	226	126	263	steel
+Dracozolt	880	DRACOZOLT	195	165	207	electric,dragon
+Arctozolt	881	ARCTOZOLT	190	166	207	electric,ice
+Dracovish	882	DRACOVISH	175	185	207	water,dragon
+Arctovish	883	ARCTOVISH	171	185	207	water,ice
+Duraludon	884	DURALUDON	239	185	172	steel,dragon
+Dreepy	885	DREEPY	117	61	99	dragon,ghost
+Drakloak	886	DREEPY	163	105	169	dragon,ghost
+Dragapult	887	DREEPY	266	170	204	dragon,ghost
+Zacian (Crowned Sword)	888	ZACIAN	332	240	192	fairy,steel
+Zacian (Hero)	888	ZACIAN	254	236	192	fairy
+Zamazenta (Crowned Shield)	889	ZAMAZENTA	250	292	192	fighting,steel
+Zamazenta (Hero)	889	ZAMAZENTA	254	236	192	fighting
+Eternatus	890	ETERNATUS	278	192	268	poison,dragon
+Eternatus (Eternamax)	890	ETERNATUS	251	505	452	poison,dragon
+Kubfu	891	KUBFU	170	112	155	fighting
+Urshifu (Rapid Strike)	892	KUBFU	254	177	225	fighting,water
+Urshifu (Single Strike)	892	KUBFU	254	177	225	fighting,dark
+Zarude	893	ZARUDE	242	215	233	dark,grass
+Regieleki	894	REGIELEKI	250	125	190	electric
+Regidrago	895	REGIDRAGO	202	101	400	dragon
+Glastrier	896	GLASTRIER	246	223	225	ice
+Spectrier	897	SPECTRIER	273	146	205	ghost
+Calyrex	898	CALYREX	162	162	225	psychic,grass
+Calyrex (Ice Rider)	898	CALYREX	268	246	205	psychic,ice
+Wyrdeer	899	STANTLER	206	145	230	normal,psychic
+Kleavor	900	SCYTHER	253	174	172	bug,rock
+Ursaluna	901	TEDDIURSA	243	181	277	ground,normal
+Basculegion (Female)	902	BASCULIN	199	144	260	water,ghost
+Basculegion (Male)	902	BASCULIN	217	144	260	water,ghost
+Sneasler	903	SNEASEL	259	158	190	fighting,poison
+Overqwil	904	QWILFISH	222	171	198	dark,poison
+Enamorus (Incarnate)	905	ENAMORUS	281	162	179	fairy,flying
+Enamorus (Therian)	905	ENAMORUS	250	201	179	fairy,flying
+Sprigatito	906	SPRIGATITO	116	99	120	grass
+Floragato	907	SPRIGATITO	157	128	156	grass
+Meowscarada	908	SPRIGATITO	233	153	183	grass,dark
+Fuecoco	909	FUECOCO	112	96	167	fire
+Crocalor	910	FUECOCO	162	134	191	fire
+Skeledirge	911	FUECOCO	207	178	232	fire,ghost
+Quaxly	912	QUAXLY	120	86	146	water
+Quaxwell	913	QUAXLY	162	123	172	water
+Quaquaval	914	QUAXLY	236	159	198	water,fighting
+Lechonk	915	LECHONK	81	79	144	normal
+Oinkologne	916	LECHONK	186	153	242	normal
+Oinkologne (Female)	916	LECHONK	169	162	251	normal
+Tarountula	917	TAROUNTULA	70	77	111	bug
+Spidops	918	TAROUNTULA	139	166	155	bug
+Nymble	919	NYMBLE	81	65	107	bug
+Lokix	920	NYMBLE	199	144	174	bug,dark
+Pawmi	921	PAWMI	95	45	128	electric
+Pawmo	922	PAWMI	147	82	155	electric,fighting
+Pawmot	923	PAWMI	232	141	172	electric,fighting
+Tandemaus	924	TANDEMAUS	98	90	137	normal
+Maushold	925	TANDEMAUS	159	157	179	normal
+Maushold_family_of_four	925	TANDEMAUS	159	157	179	normal
+Maushold_family_of_three	925	TANDEMAUS	159	157	179	normal
+Fidough	926	FIDOUGH	102	126	114	fairy
+Dachsbun	927	FIDOUGH	159	212	149	fairy
+Smoliv	928	SMOLIV	100	89	121	grass,normal
+Dolliv	929	SMOLIV	137	131	141	grass,normal
+Arboliva	930	SMOLIV	219	189	186	grass,normal
+Squawkabilly	931	SQUAWKABILLY	185	105	193	normal,flying
+Nacli	932	NACLI	95	108	146	rock
+Naclstack	933	NACLI	105	160	155	rock
+Garganacl	934	NACLI	171	212	225	rock
+Charcadet	935	CHARCADET	92	74	120	fire
+Armarouge	936	CHARCADET	234	185	198	fire,psychic
+Ceruledge	937	CHARCADET	239	189	181	fire,ghost
+Tadbulb	938	TADBULB	104	73	156	electric
+Bellibolt	939	TADBULB	184	165	240	electric
+Wattrel	940	WATTREL	105	75	120	electric,flying
+Kilowattrel	941	WATTREL	221	132	172	electric,flying
+Maschiff	942	MASCHIFF	140	108	155	dark
+Mabosstiff	943	MASCHIFF	230	168	190	dark
+Shroodle	944	SHROODLE	124	70	120	poison,normal
+Grafaiai	945	SHROODLE	199	149	160	poison,normal
+Bramblin	946	BRAMBLIN	121	64	120	grass,ghost
+Brambleghast	947	BRAMBLIN	228	144	146	grass,ghost
+Toedscool	948	TOEDSCOOL	97	149	120	ground,grass
+Toedscruel	949	TOEDSCOOL	166	209	190	ground,grass
+Klawf	950	KLAWF	184	185	172	rock
+Capsakid	951	CAPSAKID	118	76	137	grass
+Scovillain	952	CAPSAKID	216	130	163	grass,fire
+Rellor	953	RELLOR	86	108	121	bug
+Rabsca	954	RELLOR	201	178	181	bug,psychic
+Flittle	955	FLITTLE	105	60	102	psychic
+Espathra	956	FLITTLE	204	127	216	psychic
+Tinkatink	957	TINKATINK	85	110	137	fairy,steel
+Tinkatuff	958	TINKATINK	109	145	163	fairy,steel
+Tinkaton	959	TINKATINK	155	196	198	fairy,steel
+Wiglett	960	WIGLETT	109	52	67	water
+Wugtrio	961	WIGLETT	205	136	111	water
+Bombirdier	962	BOMBIRDIER	198	172	172	flying,dark
+Finizen	963	FINIZEN	90	80	172	water
+Palafin	964	FINIZEN	143	144	225	water
+Palafin_hero	964	FINIZEN	322	196	225	water
+Palafin_zero	964	FINIZEN	143	144	225	water
+Varoom	965	VAROOM	123	107	128	steel,poison
+Revavroom	966	VAROOM	229	168	190	steel,poison
+Cyclizar	967	CYCLIZAR	205	142	172	dragon,normal
+Orthworm	968	ORTHWORM	161	219	172	steel
+Glimmet	969	GLIMMET	187	104	134	rock,poison
+Glimmora	970	GLIMMET	246	177	195	rock,poison
+Greavard	971	GREAVARD	105	106	137	ghost
+Houndstone	972	GREAVARD	186	195	176	ghost
+Flamigo	973	FLAMIGO	227	145	193	flying,fighting
+Cetoddle	974	CETODDLE	119	80	239	ice
+Cetitan	975	CETODDLE	208	123	347	ice
+Veluza	976	VELUZA	196	139	207	water,psychic
+Dondozo	977	DONDOZO	176	178	312	water
+Tatsugiri (Curly)	978	TATSUGIRI	226	166	169	dragon,water
+Tatsugiri (Droopy)	978	TATSUGIRI	226	166	169	dragon,water
+Tatsugiri (Stretchy)	978	TATSUGIRI	226	166	169	dragon,water
+Annihilape	979	MANKEY	220	178	242	fighting,ghost
+Clodsire	980	WOOPERPALDEAN	127	151	277	poison,ground
+Farigiraf	981	GIRAFARIG	209	136	260	normal,psychic
+Dudunsparce	982	DUNSPARCE	188	150	268	normal
+Kingambit	983	PAWNIARD	238	203	225	dark,steel
+Greattusk	984	GREATTUSK	249	209	251	ground,fighting
+Screamtail	985	SCREAMTAIL	139	234	251	fairy,psychic
+Brutebonnet	986	BRUTEBONNET	232	190	244	grass,dark
+Fluttermane	987	FLUTTERMANE	280	235	146	ghost,fairy
+Slitherwing	988	SLITHERWING	261	193	198	bug,fighting
+Sandyshocks	989	SANDYSHOCKS	244	195	198	electric,ground
+Irontreads	990	IRONTREADS	227	216	207	ground,steel
+Ironbundle	991	IRONBUNDLE	266	211	148	ice,water
+Ironhands	992	IRONHANDS	245	177	319	fighting,electric
+Ironjugulis	993	IRONJUGULIS	249	179	214	dark,flying
+Ironmoth	994	IRONMOTH	281	196	190	fire,poison
+Ironthorns	995	IRONTHORNS	250	200	225	rock,electric
+Frigibax	996	FRIGIBAX	134	86	163	dragon,ice
+Arctibax	997	FRIGIBAX	173	128	207	dragon,ice
+Baxcalibur	998	FRIGIBAX	254	168	229	dragon,ice
+Gimmighoul	999	GIMMIGHOUL	140	76	128	ghost
+Gholdengo	1000	GIMMIGHOUL	252	190	202	steel,ghost
+Wo-Chien	1001	WOCHIEN	186	242	198	dark,grass
+Chien-Pao	1002	CHIENPAO	261	167	190	dark,ice
+Ting-Lu	1003	TINGLU	194	203	321	dark,ground
+Chi-Yu	1004	CHIYU	269	221	146	dark,fire
+Roaringmoon	1005	ROARINGMOON	280	196	233	dragon,dark
+Ironvaliant	1006	IRONVALIANT	279	171	179	fairy,fighting
+Koraidon	1007	KORAIDON	263	223	205	fighting,dragon
+Koraidon_apex	1007	KORAIDONAPEX	263	223	205	fighting,dragon
+Miraidon	1008	MIRAIDON	263	223	205	electric,dragon
+Miraidon_ultimate	1008	MIRAIDONULTIMATE	263	223	205	electric,dragon
+Walking Wake	1009	WALKINGWAKE	233	171	203	water,dragon
+Iron Leaves	1010	IRONLEAVES	236	194	189	grass,psychic
+Dipplin	1011	APPLIN	173	184	190	grass,dragon
+Poltchageist	1012	SINISTCHA	134	96	120	grass,ghost
+Sinistcha	1013	SINISTCHA	225	191	174	grass,ghost
+Okidogi	1014	OKIDOGI	220	191	186	poison,fighting
+Munkidori	1015	MUNKIDORI	238	157	186	poison,psychic
+Fezandipiti	1016	FEZANDIPITI	169	208	186	poison,fairy
+Ogerpon	1017	OGERPON	219	178	173	grass
+Archaludon	1018	DURALUDON	250	215	207	steel,dragon
+Hydrapple	1019	APPLIN	216	186	235	grass,dragon
+Gouging Fire	1020	GOUGINGFIRE	205	208	213	fire,dragon
+Raging Bolt	1021	RAGINGBOLT	235	165	245	electric,dragon
+Iron Boulder	1022	IRONBOULDER	227	195	189	rock,psychic
+Iron Crown	1023	IRONCROWN	221	200	189	steel,psychic
+Terapagos	1024	TERAPAGOS	126	165	207	normal
+Pecharunt	1025	PECHARUNT	164	248	186	poison,ghost

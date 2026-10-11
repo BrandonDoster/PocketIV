@@ -1,0 +1,70 @@
+# Builds a release-signed APK when a version tag (v1.2.3) is pushed and publishes it as a
+# GitHub release with a SHA-256 checksum (and a build provenance attestation while the repo is public).
+#
+# Secrets on the "release" environment:
+#   POCKETIV_KEYSTORE_B64       base64 of the PKCS12 release keystore
+#   POCKETIV_KEYSTORE_PASSWORD  its password
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: read
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    environment: release
+    permissions:
+      contents: write      # create the release
+      id-token: write      # sign the provenance attestation
+      attestations: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-java@de7274f081f381c8f8158605e0321c36c376e2e6 # v6.0.1
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Install Android SDK packages
+        run: |
+          SDKMANAGER="$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"
+          yes | "$SDKMANAGER" --licenses > /dev/null
+          "$SDKMANAGER" "platforms;android-37.0" "build-tools;37.0.0" > /dev/null
+
+      - name: Test and build
+        run: ./gradlew testDebugUnitTest assembleRelease -PversionName="${GITHUB_REF_NAME#v}" -PversionCode="$GITHUB_RUN_NUMBER"
+
+      - name: Sign
+        env:
+          KEYSTORE_B64: ${{ secrets.POCKETIV_KEYSTORE_B64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.POCKETIV_KEYSTORE_PASSWORD }}
+        run: |
+          if [ -z "$KEYSTORE_B64" ] || [ -z "$KEYSTORE_PASSWORD" ]; then
+            echo "::error::Signing secrets are missing"; exit 1
+          fi
+          KEYSTORE="$RUNNER_TEMP/release.jks"
+          trap 'rm -f "$KEYSTORE"' EXIT
+          printf '%s' "$KEYSTORE_B64" | base64 -d > "$KEYSTORE"
+          mkdir -p dist
+          APK="dist/pocketiv-${GITHUB_REF_NAME#v}.apk"
+          "$ANDROID_HOME/build-tools/37.0.0/apksigner" sign --ks "$KEYSTORE" --ks-pass env:KEYSTORE_PASSWORD \
+            --out "$APK" app/build/outputs/apk/release/app-release-unsigned.apk
+          "$ANDROID_HOME/build-tools/37.0.0/apksigner" verify --print-certs "$APK"
+          cd dist && sha256sum pocketiv-*.apk > SHA256SUMS
+
+      # Attestations need a public repo (or GitHub Enterprise for private ones).
+      - if: ${{ !github.event.repository.private }}
+        uses: actions/attest-build-provenance@4d101475d8b20a2381f78447822ac1eab6504dd8 # v4.2.2
+        with:
+          subject-path: dist/pocketiv-*.apk
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" dist/pocketiv-*.apk dist/SHA256SUMS --verify-tag --generate-notes --repo "$GITHUB_REPOSITORY"

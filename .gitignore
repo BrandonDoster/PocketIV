@@ -1,0 +1,17 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+__pycache__/
+
+# reverse-engineering material and other people's apps stay local
+*.apk
+*.apkm
+*.jks
+*.keystore
+CALCY_NOTES.md
+calcy_rename_tags.tsv
+iv.py
+tools/check_pogoapi.py
